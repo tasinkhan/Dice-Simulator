@@ -1,3 +1,4 @@
+''' Dice Game Simulator'''
 import random
 
 def dice_roll():
